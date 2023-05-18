@@ -3,5 +3,5 @@ Rides hailing commercial business are losing money  market share to their compet
 
 
 
-![image](https://github.com/swastti/DemandRequestForecast/assets/97381468/ce8fda35-50e0-49df-b3c5-5eb622aa9eae)
+![image](https://github.com/swastti/DemandRequestForecast/assets/97381468/55099f9c-af36-494a-8cb3-20e95b2af846)
 
